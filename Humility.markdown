@@ -1,0 +1,2 @@
+# Humility in Software Development
+It seems like many advances in software development practice over the last 20 years are based in the idea of humility. Two in particular seem born from it, Agile Development and DevOps. This I feel is 
